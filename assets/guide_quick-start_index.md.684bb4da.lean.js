@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as s}from"./app.469148f4.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/quick-start/index.md"}'),n={name:"guide/quick-start/index.md"},o=s("p",null,"冷对联网说句的脸连准的",-1),r=[o];function c(i,d,_,p,l,u){return a(),t("div",null,r)}const x=e(n,[["render",c]]);export{f as __pageData,x as default};
