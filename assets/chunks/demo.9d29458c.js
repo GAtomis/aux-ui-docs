@@ -1,0 +1,1 @@
+import{f as e,c as _,o,_ as t}from"../app.124acbc5.js";const s={class:"container"},c=e({__name:"demo",setup(n){return(a,d)=>(o(),_("div",s," 暂未开发 "))}});const r=t(c,[["__scopeId","data-v-6e7f6f8d"]]);export{r as default};
