@@ -1,0 +1,1 @@
+function t(u,c,s){let n=u;return c&&(n+=`__${c}`),s&&(n+=`--${s}`),n}function r(u,c=!1){const s=u?c?`.aux-${u}`:`aux-${u}`:c?".aux":"aux";return{b:()=>t(s),e:a=>a?t(s,a):"",m:a=>a?t(s,"",a):"",em:(a,x)=>a&&x?t(s,a,x):""}}export{r as u};
